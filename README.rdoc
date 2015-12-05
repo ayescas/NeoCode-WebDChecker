@@ -16,13 +16,13 @@
 == NeoCode WebDChecker
 The ONLY service to check if your FileMaker WebDirect page is dead or alive!
 
-== Requirements ==
+== Requirements
     PHP
     Web Server
     FileMaker Server 14
 	PhantomJS 2.0
 
-== Installation ==
+== Installation
 
 Install phantomJS
 
@@ -30,7 +30,7 @@ Configure WebDChecked on your Web server
 
 Update path to phantomJS in the top of index.php
 
-== Run It ==
+== Run It
 
 Check if Web direct is running
 
