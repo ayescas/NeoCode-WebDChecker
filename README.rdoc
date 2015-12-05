@@ -33,19 +33,16 @@ Update path to phantomJS in the top of index.php
 == Run It
 
 Check if Web direct is running
+ http://yourserver/webdcheck/index.php?url=https://MyWebDServer/fmi/webd
 
-http://yourserver/webdcheck/index.php?url=https://MyWebDServer/fmi/webd
 
 Check if Web direct is running and at least one DB is shown on the page
-
-http://yourserver/webdcheck/index.php?url=https://MyWebDServer/fmi/webd&db=ANY
+ http://yourserver/webdcheck/index.php?url=https://MyWebDServer/fmi/webd&db=ANY
 
 Check if Web direct is running and DB MyDB is shown on the page
-
-http://yourserver/webdcheck/index.php?url=https://MyWebDServer/fmi/webd&db=MyDB
+ http://yourserver/webdcheck/index.php?url=https://MyWebDServer/fmi/webd&db=MyDB
 
 Check if Web direct is running and DB MyDB is shown on the page, do guest login before checking DB
-
-http://yourserver/webdcheck/index.php?url=https://MyWebDServer/fmi/webd&db=MyDB&guest=1
+ http://yourserver/webdcheck/index.php?url=https://MyWebDServer/fmi/webd&db=MyDB&guest=1
 
 
